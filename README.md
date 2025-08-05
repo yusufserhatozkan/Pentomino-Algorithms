@@ -8,7 +8,7 @@ The project explores the versatile applications of pentomino pieces (5-unit geom
 
 ---
 
-## 🎯 Project Phases
+## Project Phases
 
 ### Phase 1: Pentomino Solver
 **Geometric Tiling Optimization**
@@ -65,7 +65,7 @@ An advanced 3D knapsack problem solver with real-time visualization, optimally p
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Java 17+**: Core programming language
 - **JavaFX 21.0.1**: GUI framework and 3D graphics
@@ -76,7 +76,7 @@ An advanced 3D knapsack problem solver with real-time visualization, optimally p
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -112,7 +112,7 @@ An advanced 3D knapsack problem solver with real-time visualization, optimally p
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── src/
@@ -138,7 +138,7 @@ An advanced 3D knapsack problem solver with real-time visualization, optimally p
 
 ---
 
-## 🎮 Usage Examples
+## Usage Examples
 
 ### Phase 1: Solving a Pentomino Puzzle
 ```
@@ -166,7 +166,7 @@ An advanced 3D knapsack problem solver with real-time visualization, optimally p
 
 ---
 
-## 🔧 Customization
+## Customization
 
 Each phase offers extensive customization options:
 
@@ -179,7 +179,7 @@ Detailed customization instructions are available in each phase's README.
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 - **Algorithmic Excellence**: Implements multiple optimization strategies
 - **User Experience**: Intuitive interfaces with real-time feedback
@@ -189,7 +189,7 @@ Detailed customization instructions are available in each phase's README.
 
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 This project demonstrates proficiency in:
 
@@ -201,7 +201,7 @@ This project demonstrates proficiency in:
 
 ---
 
-## 👥 Team Members
+## Team Members
 
 - **Hossam Mohamed Gohar**
 - **Laurin Gschwenter**
@@ -217,13 +217,13 @@ This project demonstrates proficiency in:
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 This is an academic project, but we welcome feedback and suggestions. Feel free to:
 
